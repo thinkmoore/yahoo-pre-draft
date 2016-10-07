@@ -12,7 +12,7 @@
   "author": "Henry Goodman",
   "content_scripts": [{
     "matches": [
-      "*://football.fantasysports.yahoo.com/*/editprerank*"
+      "*://hockey.fantasysports.yahoo.com/*/editprerank*"
     ],
     "js": [
       "jquery-3.1.0.min.js",
